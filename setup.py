@@ -17,7 +17,7 @@ setup(
     },
     install_requires=[
         "colorama==0.4.4",
-        "click==8.0.0a1",
+        "click==8.0.1",
         "emoji==1.2.0",
         "gitpython==3.1.12",
         "idna==2.10",
